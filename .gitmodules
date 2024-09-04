@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "literanger"]
 	path = literanger
-	url = https://github.com/stephematician/literanger
+	url = https://gitlab.com/stephematician/literanger
